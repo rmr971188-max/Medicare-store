@@ -1,0 +1,13 @@
+{
+  "name": "medicare-store",
+  "version": "1.0.0",
+  "description": "Medical Store Full Stack App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
